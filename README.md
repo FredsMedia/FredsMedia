@@ -2,18 +2,18 @@
 <a href="https://linkedin.com/in/frederick-tippet"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+## Stats
 <p>
   <img alt="Followers" src="https://img.shields.io/github/followers/fredsmedia?style=for-the-badge&logo=github&amp;color=green">
   <img alt="Following" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fredsmedia&amp;query=$.following&amp;label=following&amp;logo=github&amp;style=for-the-badge&amp;color=green">
 </p>
 
-<p align="center">
-  <img alt="fredsmedia's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fredsmedia&amp;show_icons=true">
+<p>
+  <img alt="fredsmedia's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=FredsMedia&show_icons=true&include_all_commits=true&theme=vision-friendly-dark">
 </p>
 
+## About Me
 I am a recent high school graduate currently studying a Bachelor of Information Technology with a profound interest in all things technology.
-
-
 
 ## Objective
 I am eager to find my place in the workforce, specifically aiming to do software development.
