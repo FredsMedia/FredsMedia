@@ -4,12 +4,13 @@
 
 ## Stats
 <p>
-  <img alt="Followers" src="https://img.shields.io/github/followers/fredsmedia?style=for-the-badge&logo=github&amp;color=green">
-  <img alt="Following" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fredsmedia&amp;query=$.following&amp;label=following&amp;logo=github&amp;style=for-the-badge&amp;color=green">
+  <img alt="Followers" src="https://img.shields.io/github/followers/fredsmedia?style=for-the-badge&logo=github&amp;color=blue">
+  <img alt="Following" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fredsmedia&amp;query=$.following&amp;label=following&amp;logo=github&amp;style=for-the-badge&amp;color=blue">
 </p>
 
 <p>
-  <img alt="fredsmedia's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=FredsMedia&show_icons=true&include_all_commits=true&theme=vision-friendly-dark">
+  <img alt="fredsmedia's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=FredsMedia&show_icons=true&include_all_commits=true&theme=dark_github">
+  <img alt="fredsmedia's GitHub stats" src="https://github-stats-extended.vercel.app/api/top-langs?username=FredsMedia&theme=dark_github">
 </p>
 
 ## About Me
