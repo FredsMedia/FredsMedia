@@ -1,7 +1,20 @@
 # Hey, I'm Frederick!
-<a href="https://linkedin.com/in/frederick-tippet"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/frederick-tippet"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<p>
+  <img alt="Followers" src="https://img.shields.io/github/followers/fredsmedia?style=for-the-badge&logo=github&amp;color=red">
+  <img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fredsmedia&amp;query=$.public_repos&amp;label=public%20repos&amp;logo=github&amp;style=for-the-badge&amp;color=green">
+  <img alt="Following" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fredsmedia&amp;query=$.following&amp;label=following&amp;logo=github&amp;style=for-the-badge&amp;color=blue">
+</p>
+
+<p align="center">
+  <img alt="fredsmedia's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fredsmedia&amp;show_icons=true">
+</p>
 
 I am a recent high school graduate currently studying a Bachelor of Information Technology with a profound interest in all things technology.
+
+
 
 ## Objective
 I am eager to find my place in the workforce, specifically aiming to do software development.
@@ -15,12 +28,13 @@ I am eager to find my place in the workforce, specifically aiming to do software
 ## Tools
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white">
 </div>
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/632436ea-56a1-4160-afdd-fd18a99d3d43/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-Networking%20Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics"></a>
+<a href="https://www.credly.com/badges/632436ea-56a1-4160-afdd-fd18a99d3d43/linked_in_profile"><img src="https://img.shields.io/badge/Cisco-Networking%20Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics">
+</a>
 </div>
 
 <!-- ## Projects -->
