@@ -3,9 +3,8 @@
 </a>
 
 <p>
-  <img alt="Followers" src="https://img.shields.io/github/followers/fredsmedia?style=for-the-badge&logo=github&amp;color=red">
-  <img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fredsmedia&amp;query=$.public_repos&amp;label=public%20repos&amp;logo=github&amp;style=for-the-badge&amp;color=green">
-  <img alt="Following" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fredsmedia&amp;query=$.following&amp;label=following&amp;logo=github&amp;style=for-the-badge&amp;color=blue">
+  <img alt="Followers" src="https://img.shields.io/github/followers/fredsmedia?style=for-the-badge&logo=github&amp;color=green">
+  <img alt="Following" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fredsmedia&amp;query=$.following&amp;label=following&amp;logo=github&amp;style=for-the-badge&amp;color=green">
 </p>
 
 <p align="center">
